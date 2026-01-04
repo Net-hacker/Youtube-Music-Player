@@ -1,10 +1,10 @@
 # Youtube-Music-Player
-It's a GUI Music-Player
+It's a GUI Music-Player using ytmusicapi, yt-dlp and python-vlc
 
-## What i used
+## How to install
 ```
-PySimpleGUI     pip install PySimpleGUI   or   pip3 install PySimpleGUI
-ytmusicapi      pip install ytmusicapi    or   pip3 install ytmusicapi
-pafy            pip install pafy          or   pip3 install pafy
-vlc             pip install python-vlc    or   pip3 install python-vlc
+pip install -r requirements.txt
 ```
+
+> [!WARNING]
+> It doesn't have Volume Control so it might be very loud!

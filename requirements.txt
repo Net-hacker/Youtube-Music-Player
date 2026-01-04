@@ -1,0 +1,4 @@
+FreeSimpleGUI
+ytmusicapi
+python-vlc
+yt-dlp
